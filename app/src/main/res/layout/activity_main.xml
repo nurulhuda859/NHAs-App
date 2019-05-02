@@ -34,7 +34,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/nhas"
-        android:layout_marginTop="88dp"
+        android:layout_marginTop="27dp"
         android:background="#2196F3"
         android:fontFamily="sans-serif-condensed-light"
         android:text="@string/vmw"
@@ -45,10 +45,10 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="377dp"
+        android:layout_height="191dp"
         android:layout_below="@id/textView"
-        android:layout_marginTop="129dp"
+        android:layout_marginTop="21dp"
         android:text="@string/v"
         android:textSize="50sp"
         android:textStyle="bold" />
